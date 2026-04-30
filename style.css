@@ -1,6 +1,10 @@
 body{
-    background-color: darkslategray;
+    background-color: whitesmoke;
 }
 header{
 background-color: ghostwhite;
+}
+
+header div img{
+    largura:300px;
 }
